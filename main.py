@@ -13,8 +13,11 @@ from llama_index import (
     PromptTemplate
 )
 from llama_index.embeddings import HuggingFaceEmbedding
+
+
 import logging
 import sys
+
 
 # Set global handler for LLaMA index
 llama_index.set_global_handler("simple")
@@ -61,7 +64,6 @@ qa_prompt_tmpl = PromptTemplate(qa_prompt_tmpl_str)
 query_engine.update_prompts(
     {"response_synthesizer:text_qa_template": qa_prompt_tmpl}
 )
-
 # Define Pydantic model for query requests
 class Query(BaseModel):
     text: str
