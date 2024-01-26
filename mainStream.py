@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 
 from pydantic import BaseModel
 import os.path
@@ -47,7 +47,7 @@ else:
     index = load_index_from_storage(storage_context)
 
 # Initialize query engine from index
-query_engine = index.as_query_engine()
+query_engine = index.as_query_engine(streaming=True, similarity_top_k=2)
 
 # Define custom prompt template
 qa_prompt_tmpl_str = (
@@ -74,8 +74,19 @@ class Query(BaseModel):
 @app.post("/query")
 async def query_index(query: Query):
     try:
-        response = query_engine.query(query.text)
-        return response
+        response_stream = query_engine.query(query.text)
+
+        # Define an asynchronous generator function
+        async def generate():
+           for text in response_stream.response_gen:
+                # do something with text as they arrive.
+                print(f"Streaming chunk: {text}")  # Simple print statement for demonstration
+
+                yield text
+                pass
+
+        return StreamingResponse(generate(), media_type="text/plain")
+        
     except Exception as e:
         # Log the exception for debugging purposes
         logging.error(f"Error during query processing: {str(e)}")
@@ -84,7 +95,6 @@ async def query_index(query: Query):
             status_code=503,
             content={"message": "LLM API is currently unavailable.", "error": str(e)}
         )
-
 
 # Main function to run the FastAPI app
 if __name__ == "__main__":
