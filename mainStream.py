@@ -15,6 +15,7 @@ from llama_index import (
     PromptTemplate
 )
 from llama_index.embeddings import HuggingFaceEmbedding
+from fastapi.middleware.cors import CORSMiddleware
 
 
 import logging
@@ -70,33 +71,43 @@ query_engine.update_prompts(
 class Query(BaseModel):
     text: str
 
-# Define FastAPI endpoint for querying
-@app.post("/query")
-async def query_index(query: Query):
+@app.get("/query")
+async def query_index(query: str ):
     try:
-        response_stream = query_engine.query(query.text)
+        response_stream = query_engine.query(query)
 
-        # Define an asynchronous generator function
-        async def generate():
-           for text in response_stream.response_gen:
-                # do something with text as they arrive.
-                print(f"Streaming chunk: {text}")  # Simple print statement for demonstration
+        async def event_stream():
+            for text in response_stream.response_gen:
+                yield f"data: {text}\n\n"
+            # Send a special message or marker to indicate the end of the stream
+            yield "data: END_OF_STREAM\n\n"
 
-                yield text
-                pass
-
-        return StreamingResponse(generate(), media_type="text/plain")
+        return StreamingResponse(event_stream(), media_type="text/event-stream")
         
     except Exception as e:
-        # Log the exception for debugging purposes
         logging.error(f"Error during query processing: {str(e)}")
-        # Return a JSON response with status code 503
         return JSONResponse(
             status_code=503,
             content={"message": "LLM API is currently unavailable.", "error": str(e)}
         )
 
-# Main function to run the FastAPI app
+# Add CORS middleware to allow specific origins (or use '*' for all origins)
+origins = [
+   
+     "*", # Allow all origins
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# ... [rest of your code]
+
+# The main function remains unchanged
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
