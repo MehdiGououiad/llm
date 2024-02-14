@@ -1,7 +1,5 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
-
-from pydantic import BaseModel
 import os.path
 import llama_index
 
@@ -16,10 +14,12 @@ from llama_index import (
 )
 from llama_index.embeddings import HuggingFaceEmbedding
 
-
 import logging
 import sys
+import json
 
+logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 # Set global handler for LLaMA index
 llama_index.set_global_handler("simple")
@@ -47,7 +47,7 @@ else:
     index = load_index_from_storage(storage_context)
 
 # Initialize query engine from index
-query_engine = index.as_query_engine()
+query_engine = index.as_query_engine(similarity_top_k=2)
 
 # Define custom prompt template
 qa_prompt_tmpl_str = (
@@ -55,8 +55,8 @@ qa_prompt_tmpl_str = (
     "---------------------\n"
     "{context_str}\n"
     "---------------------\n"
-    "Given the context information and not prior knowledge,Some rules to follow: 1. Avoid statements like 'Based on the context, ...' or 'The context information ...' or anything along those lines. "
-    "answer the query in french and but remember you are chatbot trained on rh questions so always put that in perspective . you are named Rhym a chatbot created by the innovation team at BMCI  \n"
+    "Given the context information and not prior knowledge,Some rules to follow: 1. Avoid statements like 'Based on the context, ...' or 'The context information ...' or anything along those lines." 
+    "answer the query in french and remember you are Q&A chatbot trained on rh questions. you are named Rhym a chatbot created by the innovation team at BMCI  \n"
     "Query: {query_str}\n"
     "Answer: "
 )
@@ -66,15 +66,16 @@ qa_prompt_tmpl = PromptTemplate(qa_prompt_tmpl_str)
 query_engine.update_prompts(
     {"response_synthesizer:text_qa_template": qa_prompt_tmpl}
 )
-# Define Pydantic model for query requests
-class Query(BaseModel):
-    text: str
 
-# Define FastAPI endpoint for querying
+# Define FastAPI endpoint for querying without Pydantic
 @app.post("/query")
-async def query_index(query: Query):
+async def query_index(request: Request):
     try:
-        response = query_engine.query(query.text)
+        body = await request.json()
+        text = body.get("text")
+        if not text or type(text) != str:
+            raise ValueError("Invalid input: 'text' field is required and must be a string.")
+        response = query_engine.query(text)
         return response
     except Exception as e:
         # Log the exception for debugging purposes
@@ -84,7 +85,6 @@ async def query_index(query: Query):
             status_code=503,
             content={"message": "LLM API is currently unavailable.", "error": str(e)}
         )
-
 
 # Main function to run the FastAPI app
 if __name__ == "__main__":
