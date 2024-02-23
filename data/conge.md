@@ -22,12 +22,11 @@ Vous devez déclarer votre grossesse à partir de 3 mois
 
 # En tant que non titulaire, ai-je le droit d'avoir un congé de maternité? 
 
-En tant que collaboratrice non-titulaire affiliée à la CNSS vous avez droits à des indemnités journalières de la CNSS pendant le congé post-natal.                                                                                                                                                                                      En tant que collaboratrice sous contrat ANAPEC (non affiliées à la CNSS), vous n'avez droit à aucune indemnité pendant le congé de maternité.
+En tant que collaboratrice non-titulaire affiliée à la CNSS vous avez droits à des indemnités journalières de la CNSS pendant le congé post-natal.En tant que collaboratrice sous contrat ANAPEC (non affiliées à la CNSS), vous n'avez droit à aucune indemnité pendant le congé de maternité.
 
 # Qu'est ce que le congé prénatal ? J'ai accouché avant terme, ai-je droit au congé prénatal ?
 
-Le congé prénatal s’étale de la date mentionnée dans le certificat de 7 mois et demi de grossesse jusqu’à la date d’accouchement.                                                                                                                                                                                                                                 La durée totale du congé prénatal est majorée à 45 jours.
-Les collaboratrices qui accouchent avant terme bénéficient du congé de maternité de 90 jours. Le congé prénatal de 45 jours n’étant pas dû.                                                                                                                                                                                   Le congé de prénatale En tant que collaboratrice enceinte vous devez remettre à votre conseiller administratif RH :
+Le congé prénatal s’étale de la date mentionnée dans le certificat de 7 mois et demi de grossesse jusqu’à la date d’accouchement. La durée totale du congé prénatal est majorée à 45 jours.Les collaboratrices qui accouchent avant terme bénéficient du congé de maternité de 90 jours. Le congé prénatal de 45 jours n’étant pas dû.Le congé de prénatale En tant que collaboratrice enceinte vous devez remettre à votre conseiller administratif RH :
 Un certificat de grossesse de 7 mois et demi fourni par votre médecin  pour entamer le congé prénatal
 Vos coordonnées personnelles: Téléphone, adresse mail personnelle.
 
@@ -128,7 +127,7 @@ En tant que collaborateur BMCI, vous bénéficiez d'un congé de 3 jours à la n
 
 Pour bénéficier de votre congé de paternité, vous devez l'annoncer à votre manager qui procédera à la saisie de ce congé sur le portail RH OPENHR.
 
-# C'est quoi un congé? Je doit travailler combien de jours pour avoir droit a un congé annuel ? je peux avoir un conge apres 2 mois de travail ?
+# C'est quoi un congé? Je doit travailler combien de jours pour avoir droit a un congé annuel ? je peux avoir un conge apres 2 mois de travail ?  J'ai droit a combien jours de congé ? 
 
 
 Un congé est la période pendant laquelle il y a interruption de travail à l'occasion d'une fête, de vacances, d'une maladie ou tout autre événement personnel ou professionnel.
@@ -189,7 +188,7 @@ Suite au mariage de votre enfant, vous devez annoncer à votre manager la pério
 
 Suite au mariage de votre petit fils, vous devez annoncer à votre manager la période de votre absence, en précisant vos coordonnées afin d'être joignable.
 
-# Combien je bénéficies de nombre de jours de congé lors de mon mariage ?
+# Combien je bénéficies de nombre de jours de congé marriage ? c'est quoi la duree du conge marriage ?
 
 En tant que collaborateur BMCI, vous bénéficiez de 10 jours ouvrables
 

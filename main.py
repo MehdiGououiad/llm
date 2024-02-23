@@ -47,7 +47,7 @@ else:
     index = load_index_from_storage(storage_context)
 
 # Initialize query engine from index
-query_engine = index.as_query_engine(similarity_top_k=2)
+query_engine = index.as_query_engine(similarity_top_k=3)
 
 # Define custom prompt template
 qa_prompt_tmpl_str = (
