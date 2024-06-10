@@ -285,3 +285,6 @@ Compléter le formulaire par les données personnelles.
 Faire remplir, signer et cacheter le formulaire par le médecin traitant et par la RH BMCI.
 Accéder à la plateforme TAAWIDATY et déposer le formulaire dans un délai de 30 jours à compter du 1er jour de l’arrêt afin d’éviter le rejet de la demande,
 Adresser via la boite générique : "casablanca_irs_bmci_drh_gps@bnpparibas.com", une copie de l'accusé de dépôt à la CNSS ainsi que l'autorisation de prélèvement des IJM signé permettant à la BMCI la restitution des montants des indemnités.
+
+# c'est quoi le lien OPENHR ? c'est quoi le lien de la plateforme pour saisir mes conges ? comment acceder a openhr ? 
+le lien la plateforme openhr pour saisir le congé est https://prohras9.rb.echonet/hra-space/portal/root

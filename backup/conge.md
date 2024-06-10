@@ -144,7 +144,7 @@ Au regard de l’article 240 du Code du travail Marocain, chaque collaborateur d
 
 # Où puis-je consulter mes droits de congé?
 
-Pour consulter vos droits de congé, vous devez accéder à votre espace OPENHR, rubrique "Consultation des soldes"
+Pour consulter vos droits de congé, vous devez accéder à votre espace OPENHR son lien est https://prohras9.rb.echonet/hra-space/portal/root , rubrique "Consultation des soldes"
 
 # Quels sont les modalités d’évolution de mes droits de congé ?
 
@@ -198,7 +198,7 @@ En tant que collaborateur BMCI, vous bénéficiez de 2 jours ouvrables à l'issu
 
 # Qui devrais saisir le congé suite à mon mariage ?
 
-Vous annoncez à  votre manager votre absence pour votre mariage, et ce dernier procèdera à la saisie de ce congé spécial sur OpenHR
+Vous annoncez à  votre manager votre absence pour votre mariage, et ce dernier procèdera à la saisie de ce congé spécial sur OpenHR son lien est : https://prohras9.rb.echonet/hra-space/portal/root
 
 # Qui devrait saisir le congé suite au mariage de mon enfant?
 
@@ -242,7 +242,7 @@ En tant que collaborateur BMCI, et pour bénéficier de votre congé déménagem
 
 # Qui devrait saisir mon congé de déménagement ?
 
-Pour bénéficier d'un congé de déménagement, vous l'annoncez à  votre manager, et ce dernier procèdera à la saisie de ce congé spécial sur OpenHR
+Pour bénéficier d'un congé de déménagement, vous l'annoncez à  votre manager, et ce dernier procèdera à la saisie de ce congé spécial sur OpenHR le lien de la plateforme est : https://prohras9.rb.echonet/hra-space/portal/root
 
 # Combien je bénéficies de nombre de jours de congé suite à une opération chirurgicale de mon mari  ?
 
@@ -345,4 +345,4 @@ Accéder à la plateforme TAAWIDATY et déposer le formulaire dans un délai de 
 Adresser via la boite générique : "casablanca_irs_bmci_drh_gps@bnpparibas.com", une copie de l'accusé de dépôt à la CNSS ainsi que l'autorisation de prélèvement des IJM signé permettant à la BMCI la restitution des montants des indemnités.
 
 # c'est quoi le lien OPENHR ? c'est quoi le lien de la plateforme pour saisir mes conges ? comment acceder a openhr ? 
-le lien est https://prohras9.rb.echonet/hra-space/portal/root
+le lien la plateforme openhr pour saisir le congé est https://prohras9.rb.echonet/hra-space/portal/root

@@ -3,7 +3,7 @@ from fastapi.responses import JSONResponse
 import os.path
 import llama_index
 
-from llama_index import (
+from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
     StorageContext,
@@ -12,7 +12,7 @@ from llama_index import (
     set_global_service_context,
     PromptTemplate
 )
-from llama_index.embeddings import HuggingFaceEmbedding
+from llama_index.embeddings.huggingface import HuggingFaceEmbedding 
 
 import logging
 import sys
@@ -22,7 +22,7 @@ logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
 
 # Set global handler for LLaMA index
-llama_index.set_global_handler("simple")
+# llama_index.set_global_handler("simple")
 
 # Initialize FastAPI app
 app = FastAPI()
