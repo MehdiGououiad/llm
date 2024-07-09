@@ -21,7 +21,7 @@ Pension de survivants: La pension de survivants est une prestation allouée au(x
 
 
 # Quelles sont mes cotisations auprès de la CNSS, Comment sont calculés la part salariale et la part patronale des cotisations CNSS, Est-ce que la BMCI cotise pour moi à la CNSS
-Veuillez consulter le lien qui détaille les cotisations à la CNSS (Part patronale et part Salariale) https://bnpparibas-my.sharepoint.com/:f:/r/personal/mehdi_kazdar_bnpparibas_com/Documents/Chatbot%20RH?csf=1&web=1&e=ZX8etO
+Veuillez consulter le lien qui détaille les cotisations à la CNSS https://bnpparibas-my.sharepoint.com/:f:/r/personal/mehdi_kazdar_bnpparibas_com/Documents/Chatbot%20RH?csf=1&web=1&e=ZX8etO
 
 
 # Qui bénéficie des allocation familiales?, Qui a droit aux allocations familiales?, Qui touche les allocations familiales?
@@ -406,3 +406,6 @@ En cas de rechute (aggravation de la lésion initiale ou nouvelle lésion résul
 En tant que collaborateur de la BMCI, votre assurance vous assure les prestations suivantes en cas d'accident de travail:
 Les frais médicaux, pharmaceutiques, d’appareillage et de prothèse;
 L’assistance d’une tierce personne;
+
+# Si ma conjonte est à la BMCI est-ce que je bénéficie d'avantages en matières de remboursements CNSS?
+Si votre conjoint(e) est un collaborateur ou collaboratrice à la BMCI, vous bénéficiez d'un  remboursement à 100%  seulement avec la CMIM.

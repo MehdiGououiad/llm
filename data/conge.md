@@ -1,6 +1,6 @@
 
 
-# Quels sont mes droits de congé maternité ? Quels sont mes droits en congés de maternité ? Congé maternité, quels sont mes droits ? C'est quoi un congé de maternité ? Je suis enceinte, quels sont mes droits ? combien de jours de congé demi-solde ai-je droit ? Quelle est la durée du congé maternité ? Quels sont les documents que je dois fournir après l’accouchement ? Quels sont les papiers à fournir après accouchement ? Après l'accouchement que doit je faire ? Quelles sont les pièces à fournir pour le congé de maternité ? Quelles sont les pièces à fournir pour mon dossier accouchement ? De quoi se compose le dossier accouchement ? Quels sont les droits de congé de maternité en tant que non titulaire ? Je ne suis pas titulaire, quels sont mes droits en congé maternité ? Quelle est la durée du congé maternité en tant que non titulaire ?
+# Quels sont mes droits de congé maternité ? Quels sont mes droits en congés de maternité ? Congé maternité, quels sont mes droits ? C'est quoi un congé de maternité ? Je suis enceinte, quels sont mes droits ? combien de jours de congé demi-solde ai-je droit ? Quelle est la durée du congé maternité ? Quels sont les documents que je dois fournir après l’accouchement ? Quels sont les papiers à fournir après accouchement ? Après l'accouchement que doit je faire ? Quelles sont les pièces à fournir pour le congé de maternité ? Quelles sont les pièces à fournir pour mon dossier accouchement ? De quoi se compose le dossier accouchement ? 
 "En tant que collaboratrice du secteur bancaire, vous avez droit à:
 Un congé prénatal (avant accouchement): 45 Jours.
 Un congé post-natal (après accouchement): 90 jours.
@@ -8,6 +8,10 @@ Un congé en demi solde pour une durée maximum de 6 mois. A la demande
 Un congé sans solde pour une durée maximum de 6 mois. A la demande.
 En tant que collaboratrice non-titulaire affiliée à la CNSS vous avez droits à des indemnités journalières de la CNSS pendant le congé post-natal.
 A l'issue de votre accouchement vous devez informer votre conseiller administratif RH en lui communiquant un certificat de naissance et entamer les démarches de dépôt des indemnités journalières maladie auprès de la CNSS."
+
+# Quels sont les droits de congé de maternité en tant que non titulaire ? 	Quels sont les droits de congé de maternité en période d'essai ? 	Je ne suis pas titulaire, quels sont mes droits en congé maternité? 	Quelle est la durée du congé maternité en tant que non titulaire? 	
+En tant que collaboratrice non-titulaire affiliée à la CNSS vous avez droits à des indemnités journalières de la CNSS pendant le congé post-natal. En tant que collaboratrice sous contrat ANAPEC (non affiliées à la CNSS), vous n'avez droit à aucune indemnité pendant le congé de maternité.
+
 
 
 # Comment constituer le dossier d'accouchement ? Comment je calcule mes droits de congé de maternité ? Je suis enceinte, comment je calcule mon congé ? Quelle la procédure que je dois suivre si je suis à 7 mois et demi de grossesse ? Comment déclarer ma grossesse ? Je suis à 7 mois et demi de grossesse, que faire ? Je suis enceinte, comment procéder ? Je suis enceinte, quoi faire ?
@@ -104,7 +108,7 @@ Certificat de décès en cas de décès du nouveau-né."
 
 # Où dois-je déposer mon dossier CNSS pour être remboursé sur mon congé de maternité ? Où est ce que je dois déposer mon dossier CNSS ? Où est ce que je dois déposer mon dossier IJM maternité ?
 "Pour le dépôt du dossier de maternité auprès de la CNSS il faut respecter un délai de moins de 30 jours à compter de la date d’accouchement.
-Pour déposer votre dossier de maternité, vous devez accéder à la plateforme TAAWIDATY via le lien [https://taawidaty.cnss.ma/](https://taawidaty.cnss.ma/) et ce dans un délai de 30 jours à compter du 1er jour de l’arrêt afin d’éviter le rejet de la demande"
+Pour déposer votre dossier de maternité, vous devez accéder à la plateforme TAAWIDATY via le lien https://taawidaty.cnss.ma/ et ce dans un délai de 30 jours à compter du 1er jour de l’arrêt afin d’éviter le rejet de la demande"
 
 
 
@@ -166,8 +170,7 @@ Conformément à la convention collective et au code de travail, tout collaborat
 
 # Quels sont mes droits de congé ? A combien de jours j'ai droit pour mon congé ? Combien de jours de congé puis-je avoir dans une année ? Comment sont calculés mes jours de congé ?
 "Les droits aux congés annuels sont fixés par la convention collective. Les jours de congés annuels sont attribués aux collaborateurs en début d’année selon le grade et l’ancienneté avec une majoration liée au nombre d’enfant.
-Pour plus de détails visitez la page ""Mes Congé"" rubrique ""Mes droits"""
-
+Pour plus de détails visitez la page ""Mes Congés"" rubrique ""Mes droits"", que vous pouvez accéder depuis le lien suivant: https://echonet.bnpparibas/pages/655dc2b20c0f86db6c0e0242/"
 
 
 # C'est quoi le block-leave ? Comment dois-je respecter le block-leave ? Quelles sont les dispositions à respecter en terme de congé ?
@@ -320,23 +323,19 @@ Vous annoncez à votre manager votre absence pour raison d'opération chirurgica
 
 
 # Combien je bénéficie de jours de congé suite au décès de mon mari ? Est-ce que j'ai le droit à un congé suite au décès de mon mari ? Combien je bénéficie de jours de congé suite au décès de ma femme ? Est-ce que j'ai le droit à un congé suite au décès de ma femme ?
-En tant que collaborateur BMCI, vous bénéficiez de 3 jours ouvrables en cas de perte du conjoint
-
+La BMCI vous présente ses condoléances les plus sincères. En tant que collaborateur BMCI, vous bénéficiez de 3 jours ouvrables en cas de perte du conjoint
 
 
 # Combien je bénéficie de jours de congé suite au décès de mon frère ? Est-ce que j'ai le droit à un congé suite au décès de mon frère ? Combien je bénéficie de jours de congé suite au décès de ma sœur ? Est-ce que j'ai le droit à un congé suite au décès de ma sœur ? Combien je bénéficie de jours de congé suite au décès du frère du conjoint ? Est-ce que j'ai le droit à un congé suite au décès du frère du conjoint ? Combien je bénéficie de jours de congé suite au décès de la sœur du conjoint ? Est-ce que j'ai le droit à un congé suite au décès de la sœur du conjoint ?
-En tant que collaborateur BMCI, vous bénéficiez de 2 jours ouvrables en cas de perte du frère, sœur ou frère ou sœur du conjoint
-
+La BMCI vous présente ses condoléances les plus sincères. En tant que collaborateur BMCI, vous bénéficiez de 2 jours ouvrables en cas de perte du frère, sœur ou frère ou sœur du conjoint
 
 
 # Combien je bénéficie de jours de congé suite au décès de mon oncle ? Est-ce que j'ai le droit à un congé suite au décès de mon oncle ? Combien je bénéficie de jours de congé suite au décès de ma tante ? Est-ce que j'ai le droit à un congé suite au décès de ma tante ? Combien je bénéficie de jours de congé suite au décès de mon cousin ? Est-ce que j'ai le droit à un congé suite au décès de mon cousin ? Combien je bénéficie de jours de congé suite au décès de ma cousine ? Est-ce que j'ai le droit à un congé suite au décès de ma cousine ?
-En tant que collaborateur BMCI, vous bénéficiez de 1 jour ouvrable en cas de perte d'un collatéral
+La BMCI vous présente ses condoléances les plus sincères. En tant que collaborateur BMCI, vous bénéficiez de 1 jour ouvrable en cas de perte d'un collatéral
 
 
-
-# Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon mari ? Comment puis-je justifier mon congé suite au décès de mon mari ? Que dois-je fournir pour bénéficier du congé suite au décès de mon mari ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma femme ? Comment puis-je justifier mon congé suite au décès de ma femme ? Que dois-je fournir pour bénéficier du congé suite au décès de ma femme ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon frère ? Comment puis-je justifier mon congé suite au décès de mon frère ? Que dois-je fournir pour bénéficier du congé suite au décès de mon frère ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma sœur ? Comment puis-je justifier mon congé suite au décès de ma sœur ? Que dois-je fournir pour bénéficier du congé suite au décès de ma sœur ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès du frère de mon conjoint ? Comment puis-je justifier mon congé suite au décès du frère de mon conjoint ? Que dois-je fournir pour bénéficier du congé suite au décès du frère de mon conjoint ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de la sœur de mon conjoint ? Comment puis-je justifier mon congé suite au décès de la sœur de mon conjoint ? Que dois-je fournir pour bénéficier du congé suite au décès de la sœur de mon conjoint ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon cousin ? Comment puis-je justifier mon congé suite au décès de mon cousin ? Que dois-je fournir pour bénéficier du congé suite au décès de mon cousin ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma cousine ? Comment puis-je justifier mon congé suite au décès de ma cousine ? Que dois-je fournir pour bénéficier du congé suite au décès de ma cousine ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma tante ? Comment puis-je justifier mon congé suite au décès de ma tante ? Que dois-je fournir pour bénéficier du congé suite au décès de ma tante ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon oncle ? Comment puis-je justifier mon congé suite au décès de mon oncle ? Que dois-je fournir pour bénéficier du congé suite au décès de mon oncle ?
-En tant que collaborateur BMCI, et pour bénéficier de votre congé suite à un décès, un certificat d'enterrement est à fournir au gestionnaire administratif
-
+# Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon mari ? Comment puis-je justifier mon congé suite au décès de mon mari ? Que dois-je fournir pour bénéficier du congé suite au décès de mon mari ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma femme ? Comment puis-je justifier mon congé suite au décès de ma femme ? Que dois-je fournir pour bénéficier du congé suite au décès de ma femme ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon frère ? Comment puis-je justifier mon congé suite au décès de mon frère ? Que dois-je fournir pour bénéficier du congé suite au décès de mon frère ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma sœur ? Comment puis-je justifier mon congé suite au décès de ma sœur ? Que dois-je fournir pour bénéficier du congé suite au décès de ma sœur ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès du frère de mon conjoint ? Comment puis-je justifier mon congé suite au décès du frère de mon conjoint ? Que dois-je fournir pour bénéficier du congé suite au décès du frère de mon conjoint ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de la sœur de mon conjoint ? Comment puis-je justifier mon congé suite au décès de la sœur de mon conjoint ? Que dois-je fournir pour bénéficier du congé suite au décès de la sœur de mon conjoint ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon cousin ? Comment puis-je justifier mon congé suite au décès de mon cousin ? Que dois-je fournir pour bénéficier du congé suite au décès de mon cousin ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma cousine ? Comment puis-je justifier mon congé suite au décès de ma cousine ? Que dois-je fournir pour bénéficier du congé suite au décès de ma cousine ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de ma tante ? Comment puis-je justifier mon congé suite au décès de ma tante ? Que dois-je fournir pour bénéficier du congé suite au décès de ma tante ? Quels sont les pièces à fournir pour bénéficier d'un congé suite au décès de mon oncle ? Comment puis-je justifier mon congé suite au décès de mon oncle ? Que dois-je fournir pour bénéficier du congé suite au décès de mon oncle ? Pour quel décès un congé est offert ? 
+En tant que collaborateur BMCI, et pour bénéficier de votre congé suite à un décès, un certificat d'enterrement est à fournir au gestionnaire administratif. Vous bénéficiez pour le décès d'un conjoint ascendant ou descendant d'un congé de 3 jours ouvrables, pour le décès d'un frère ou une soeur, ou le décès d'un frère ou d'une soeur d'un conjoint, vous bénéficiez de 2 jours ouvrables. Pour le décès de collatéraux, vous bénéficiez d'un jour ouvrable.
 
 
 # Qu’est-ce qu’une mise en indisponibilité sans solde ? Est-ce qu'on peut bénéficier d'une mise en indisponibilité ? Est-ce que c'est possible de demander une mise en indisponibilité ? Est-ce que je peux bénéficier d'une mise en indisponibilité ?
@@ -439,3 +438,11 @@ Compléter le formulaire par les données personnelles.
 Faire remplir, signer et cacheter le formulaire par le médecin traitant et par la RH BMCI.
 Accéder à la plateforme TAAWIDATY et déposer le formulaire dans un délai de 30 jours à compter du 1er jour de l’arrêt afin d’éviter le rejet de la demande,
 Adresser via la boite générique : ""casablanca_irs_bmci_drh_gps@bnpparibas.com"", une copie de l'accusé de dépôt à la CNSS ainsi que l'autorisation de prélèvement des IJM signé permettant à la BMCI la restitution des montants des indemnités."
+
+
+# Comment obtenir/avoir un congé sabbatique? Puis-je avoir un congé sabbatique? 	
+La BMCI n'accorde pas de congé sabbatique. Par ailleurs vous pouvez demander à votre manager un congé de mise en indisponibilité,  non rémunéré, en cas d'exception, tel qu'un regroupement familiale.
+
+# Est-ce que les jours exceptionnels sont cumulables? 
+Les jours exceptionnels ne sont pas cumulables.
+

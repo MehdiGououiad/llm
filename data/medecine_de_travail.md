@@ -103,3 +103,6 @@ Pour toute information sur la couverture des prestations médicales, je vous inv
 
 # Quelles sont les prestations couvertes par la CMIM?
 La CMIM rembourse les prestations relatives aux risques maladie/maternité suivantes : - Les consultations chez un médecin généraliste ou spécialiste ; - Les frais pharmaceutiques prescrits par un médecin ; - Les frais d’analyses médicales ; - La radiologie ; - Les injections ; - La psychothérapie ; - L’Optique (Verres et montures) ; - L’hospitalisation ; - La chirurgie ; - La maternité ; - Les cures thermales ; - Les soins et prothèses dentaires ; - L’hospitalisation à l’étranger.
+
+# Avons nous des médecins de travail au siège social de la BMCI? 
+La banque met à votre disposition au siège social 4 médecins de travail; dont un médecin de conseil, et un médecin de conseil psychologique. 

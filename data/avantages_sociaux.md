@@ -7,7 +7,7 @@ L'avance Aïd AL ADHA est uniquement réservée aux collaborateurs titulaires so
 Si vous souhaitez effectuer un remboursement du restant de votre avance de Aid al Adha, nous vous invitons à voir directement avec votre gestionnaire de compte.
 
 
-# C'est quoi une allocation Aïd ADHA?, Je suis collaborateur non titulaire/en période d'essai ai-je le droit à la prime de mariage?, Quel est le montant d'une allocation Aïd Adha?, je suis une nouvelle recrue, ai-je le droit d'une allocation Aïd AL ADHA ?
+# C'est quoi une allocation Aïd ADHA?, Je suis collaborateur non titulaire/en période d'essai ai-je le droit à la prime de Aïd AL ADHA?, Quel est le montant d'une allocation Aïd Adha?, je suis une nouvelle recrue, ai-je le droit d'une allocation Aïd AL ADHA ?
 Le montant d'allocation Aïd AL ADHA est de 1750 DH, il est versé automatiquement sur les comptes des collaborateurs titulaires uniquement.
 
 
@@ -119,5 +119,26 @@ Le menu de la semaine vous est communiqué hebdomadairement via la boite génér
 Nous vous informons que le prestataire d'entreprise mandaté est Newrest.
 
 
-# Quelle sont les conventions que les collaborateurs BMCI et filiales bénéficient ?
-Je vous invite à accéder ce lien afin de connaitre quelles conventions les collaborateurs BMCI et filiales bénéficient.
+# Quand est ce que le montant/ tarif restaurant/ restau est facturé au collaborateur ?
+Le tarif ticket restaurant est facturée chaque 24 ou 25 du mois, la veille du jour de la paie.
+
+# Je souhaite faire une réclamation au restaurant, que faire? 
+SI la réclamation que vous souhaitez faire sur le restaurant concerne le service ou la facturation veuillez vous diriger vers le superviseur du restaurant au sein de l'équipe sociale de la Direction des Ressource Humaines, situé au 7e étage du siège social de la BMCI.
+
+# Qui bénéficie du restaurant d'entreprise? 
+Les bénéficiaires du restaurant d'entreprise sont les collaborateurs titulaires, les collaborateurs en période d'essai et les retraités qui consomment à plein tarif. Les collaborateurs à contrat ANAPEC ne bénéficient pas du restaurant d'entreprise. 
+
+
+
+# Quelle sont les conventions que les collaborateurs BMCI et filiales bénéficient ? Quels sont les partenaires de la BMCI?
+Je vous invite à accéder ce lien afin de connaitre quelles conventions  les collaborateurs BMCI et filiales bénéficient : https://echonet.bnpparibas/media/files/65cf6d939be4e4d5820ea7ef/download
+
+
+
+
+# Quel est l'âge à partir duquel on peut prendre une retraite anticipée? 
+Les collaborateurs peuvent prendre leur retraite anticipée entre l'âge de 50 et 60 ans avec la CIMR et à partir de 55 à 60 ans avec la CNSS. Pour plus d'informations, je vous invite à consulter les pages ci-dessous:  -	Page Retraite Echonet : https://echonet.bnpparibas/fr/espace-rh/ma-retraite-1?from=search 
+-	Retraite anticipée  CIMR : CIMR, Caisse Interprofessionnelle Marocaine de Retraite, PARTIR A LA RETRAITE - CIMR
+-	Retraite anticipée CNSS : Retraite Anticipée | La Caisse Nationale de Sécurité Sociale (cnss.ma)
+
+

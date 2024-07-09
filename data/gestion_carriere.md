@@ -21,7 +21,6 @@ Afin de valoriser votre profil, la RH met à votre disposition l'outil About me 
 # Comment savoir les offres de mobilités proposés par la Banque ?, Comment accèder aux offres proposés par la Banque ?, Comment répondre à une offre ?, Où puis je trouvez les offres de mobilités ?, Comment postuler aux offres proposés par la Banque ?, Quels sont les acteurs susceptibles de m’aider dans la valorisation de mon Parcours ?
 Tous les offres proposés par la Banque sont accessibles via le portail My Mobility : https://mymobility.hr.echonet/, vous pouvez à tout moment les parcourir et postuler pour l'offre qui vous convient à condition que vous soyee éligible à la mobilité
 
-
 # Quelles sont les règles de mobilité ?, Est ce que je peux postuler aux offres à tout moment ?, Comment demander une mobilité ?, Quelles sont les conditions de mobilité ?
 En tant que collaborateur désirant demander une mobilité, vous devez respecter les conditions suivantes :
 - Votre ancienneté doit être de 3 ans dans le poste
@@ -357,11 +356,11 @@ Le Talent Orientation GRID est un outil qui positionne le profil d’un talent, 
 
 
 # Quels sont les différentes catégories de Talents?
-Le Talent Orientation GRID permet de mettre en évidence 3 catégories de Talents :
-- Emerging Talents - 3 à 10 ans d’expérience professionnelle / Nombre d’années d’expérience maximum pour entrer dans le niveau : 8 ans afin de passer 2 ans au moins dans ce niveau de Leadership: Ce profil de Leadership assume ou peut assumer un rôle de Manager comme prochain mouvement. Il met l’accent sur la capacité d’analyse, la prise d’initiative, le travail en équipe ainsi la capacité d’apprentissage et d’adaptation.
-- Advanced Talents - 10 à 17 ans d’expérience professionnelle / Nombre d’années d’expérience maximum pour entrer dans le niveau : 15 ans, de manière à passer 2 ans au moins dans ce niveau de Leadership : Ce profil de Leadership peut assumer un rôle de SMP dans 1 ou 2 mouvements. Il met l’accent sur la capacité de conduire l’amélioration continue, de développer les gens et de la conscience de soi.
-- Top Talents – Plus de 15 ans d’expérience professionnelle : Ce profil de Leadership peut assumer un rôle de LfC dans 1 ou 2 mouvements. Les Top Talents constituent le vivier pour des positions au sein des Comités Exécutifs.
-
+Le Talent Orientation GRID permet de mettre en évidence 4 catégories de Talents :
+ - Emerging Talents - 3 à 10 ans d’expérience professionnelle / Nombre d’années d’expérience maximum pour entrer dans le niveau : 8 ans afin de passer 2 ans au moins dans ce niveau de Leadership: Ce profil de Leadership assume ou peut assumer un rôle de Manager comme prochain mouvement. Il met l’accent sur la capacité d’analyse, la prise d’initiative, le travail en équipe ainsi la capacité d’apprentissage et d’adaptation.
+ - Advanced Talents - 10 à 17 ans d’expérience professionnelle / Nombre d’années d’expérience maximum pour entrer dans le niveau : 15 ans, de manière à passer 2 ans au moins dans ce niveau de Leadership : Ce profil de Leadership peut assumer un rôle de SMP dans 1 ou 2 mouvements. Il met l’accent sur la capacité de conduire l’amélioration continue, de développer les gens et de la conscience de soi.
+ - Top Talents – Plus de 15 ans d’expérience professionnelle : Ce profil de Leadership peut assumer un rôle de LfC dans 1 ou 2 mouvements. Les Top Talents constituent le vivier pour des positions au sein des Comités Exécutifs.
+- Local Key Resources 
 
 # Quand est-ce que le pool de LFT est revu?
 Le revue des pool LFT se fait de manière annuelle.
@@ -410,3 +409,11 @@ En tant que manager, vous ne pouvez vous orienter vers un recrutement externe se
 - Les postes d’entrée (ex : CCAC)
 - Les postes de sortie d’école ( ex : analyste)
 - Les postes techniques ( ex : data, IT)
+
+# Je souhaite changer mon rattachement, comment faire? 
+Si vous souhaitez changer votre rattachement, veuillez contacter votre conseiller RH.
+
+# Est ce que je peux demander une mobilité à l'internationnal ? Est ce que je peux postuler aux offres de bnpparibas ? Est ce que j'ai le droit de demander une mobilité vers une autre filiale de bnpparibas ?
+"Aujourd'hui, il existe deux grandes politiques définissant le cadre de la mobilité internationale au sein du Groupe : une pour les missions de longue durée (MLD), dépassant 180 jours et jusqu'à une durée initiale de 3 ans (pouvant être prolongée jusqu'à 5 ans maximum), et une pour les missions de courte durée (MCD), dépassant 30 jours et jusqu'à un maximum de 180 jours.
+Pour plus d'informations sur la mobilité internationale, nous vous encourageons à contacter votre HRBP."
+

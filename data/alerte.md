@@ -15,7 +15,7 @@ L'alerte "Respect des Personnes" est une alerte que les collaborateurs peuvent l
 
 # Comment "BNP Paribas Whistleblowing Platform" fonctionne-t-elle ?, Quelle est la procédure d'une alerte "Respect des Personnes"?, Que se passe-t-il lorsque l'on lance une alerte "Respect des Personnes"?
 "Voici la procédure de lancement d'une alerte:
-1.	L'alerte est d'abord effectuée de bonne foi 2
+1.	L'alerte est d'abord effectuée de bonne foi 
 2.	Alerte routée en fonction de la thématique et la localisation
 3.	Premier examen par des Référents personnes indépendantes désignées en tant que telles
 4.	Investigations menées si besoin est Le lanceur d’alerte peut être contacté pour toutes questions et/ou mises à jour
